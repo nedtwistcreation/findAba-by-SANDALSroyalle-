@@ -1,0 +1,5 @@
+services/geminiService.ts
+views/Home.tsx
+views/AIGuide.tsx
+services/locationService.ts
+services/paymentService.ts
