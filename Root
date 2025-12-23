@@ -1,0 +1,19 @@
+types.ts
+App.tsx
+constants.ts
+constants.ts (Branding and mock data)
+metadata.json (App permissions)
+manifest.json (Mobile app settings)
+sw.js (Offline service worker)
+tsconfig.json (TypeScript setup)
+tailwind.config.js (Design/Style setup)
+ postcss.config.js (Style processing
+ README.md (Project description)
+ LICENSE.md (Legal usage)
+package.json
+vite.config.ts
+tsconfig.json
+vercel.json
+tailwind.config.js
+postcss.config.js
+index.html
